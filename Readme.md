@@ -6,11 +6,12 @@
 
 ---
 
-![Repo Size](https://img.shields.io/github/repo-size/ezura-azur/Vs-Azurion-Train?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/azur-fnf/Vs-Comp-Azurion?style=for-the-badge)
 ![Game Size DEV](https://img.shields.io/badge/game%20size%20\(dev%20mod%20folders\)-90MB-orange?style=for-the-badge)
-![Latest Release](https://img.shields.io/github/v/release/ezura-azur/Vs-Azurion-Train?label=latest%20stable%20version\&style=for-the-badge\&sort=semver)
+![Latest Release](https://img.shields.io/github/v/release/azur-fnf/Vs-Comp-Azurion?label=latest%20version&style=for-the-badge)
 ![Dev Version](https://img.shields.io/badge/development-1.2.6--dev-8A2BE2?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/ezura-azur/Vs-Azurion-Train?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/azur-fnf/Vs-Comp-Azurion?style=for-the-badge)
+
 
 ---
 
