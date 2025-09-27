@@ -11,6 +11,8 @@
 ![Latest Release](https://img.shields.io/github/v/release/azur-fnf/Vs-Comp-Azurion?label=latest%20version&style=for-the-badge)
 ![Dev Version](https://img.shields.io/badge/development-1.2.6--dev-8A2BE2?style=for-the-badge)
 ![Contributors](https://img.shields.io/github/contributors/azur-fnf/Vs-Comp-Azurion?style=for-the-badge)
+![Cancelado](https://img.shields.io/badge/Cancelado-No-red?style=for-the-badge)
+
 
 
 ---
