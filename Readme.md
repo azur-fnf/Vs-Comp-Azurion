@@ -36,5 +36,8 @@
 
 [![👀 See Leaks](https://img.shields.io/badge/See%20Leaks-gray?style=for-the-badge\&logo=github)](leaks.md)
 
+## Note
+Some mechains inclusive dodge it's inspiread in the dodge of wedneysday infidelity
+
 
 *README improved and translated into English*
